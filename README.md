@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**bagusizzanm/bagusizzanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Bagus Izzan</h1>
+<h3 align="center">A Fullstack Web Developer</h3>
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Freelancer
+- 🌱 I’m currently learning **NodeJS, ExpressJS, ReactJS, VueJS, MongoDB**
+- 💬 Ask me about **Laravel, MySQL, AngularJS**
+- 📫 Reach me at: [bagusizzan.project@gmail.com](mailto:bagusizzan.project@gmail.com)
+
+---
+
+### 🛠 Tech Stack
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![AngularJS](https://img.shields.io/badge/-AngularJS-red?style=flat-square&logo=angularjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+
+---
+
+### 🚀 Featured Project
+[![NontonFlix](https://github-readme-stats.vercel.app/api/pin/?username=bagusizzan&repo=nontonflix&theme=tokyonight)](https://github.com/bagusizzan/nontonflix)
+
+---
+
