@@ -4,7 +4,7 @@
 <h3 align="center">A Fullstack Web Developer</h3>
 
  - 🔭 I’m currently working as a Freelancer
- -🌱 I’m currently learning **NodeJS, ExpressJS, ReactJS, VueJS, MongoDB**
+ - 🌱 I’m currently learning **NodeJS, ExpressJS, ReactJS, VueJS, MongoDB**
  - 💬 Ask me about **Web Development**
  - 📫 Reach me at: [bagusizzan.project@gmail.com](mailto:bagusizzan.project@gmail.com)
 
