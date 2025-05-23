@@ -19,6 +19,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-red?style=flat-square&logo=angularjs)
 
 ---
